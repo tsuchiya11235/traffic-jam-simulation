@@ -1,6 +1,7 @@
 # traffic-jam-simulation
 
 Pythonとpygameを使った、環状道路における幽霊渋滞のシミュレーションです。
+
 ![demo](https://github.com/user-attachments/assets/2c8c2ce4-9f07-4dd8-8c1a-3e5dfead2e15)
 
 ## 概要
